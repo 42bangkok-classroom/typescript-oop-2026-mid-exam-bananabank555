@@ -1,3 +1,3 @@
 // Write your code below
 
-1111
+console.log("Hello world")
